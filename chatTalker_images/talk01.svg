@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="72" viewBox="0 0 102 72">
+  <defs>
+    <pattern id="pattern" width="1" height="1" patternTransform="matrix(-1, 0, 0, 1, 204, 0)" viewBox="0 0 102 72">
+      <image preserveAspectRatio="none" width="102" height="72" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAABICAYAAAAEeYAkAAAACXBIWXMAABYlAAAWJQFJUiTwAAADM0lEQVR4nO2c0VHbQBCGf2ks4TEPRyrAqQB3EJdACZRACdABdJB0QAehgyQVBDrQPWgMkuDyoJMDsmVkLdId4v9meMDoxI4+7+lupdnAGIM2aK3nAE4BLADM7c9xq8Gflz8AEgB3AG4B3CilkjYDg7fEaK2XAC4AfBMESP7zA8CVUur3roMaxdgM+Q4K6YtrABdNGbRVjM2SGwCq19DIPYDTbdkT1j/QWp8B+AlKGYJjALda60X9D68yxh7wa8DASIkGsFBK3VUfrDNGa32Ecvoiw6NQu/Yvp7ILcPnrkhOt9Xn1S2CMqVZgf93FRCwawFwplVQZc77raDIYCuUmfj2VnTkLhdQ5B4AgSRKuxPzjSwhg6ToKssEiBHDkOgqywWJj50+84GgiPUMYhojj+D2CGRVZluH5+bnzeJGYyWSCw8NDySlGSxzHSNMUT09PncaLpjJmSjNBECCKos7jRWKCIJAMHz2S6yMSk+e5ZPjokVwf0T0myzIAEKXsGDHGIM9zFEXR+RziVVmWZWtB5P3gPsZTKMZTKMZTKMZTKMZTRKuyIAgwm80wmYgXd6Mjz3OsViu0fQW5jihjptMppTQQRZGoZCUSE4acCXch+dKKrqykrP0ZkOz8RWIeHh5E/3zMFEUhqoiIbhDGGKRpKjkFaYA3CU+hGE+hGE+hGE+hGE/xetsex/GHfDpaPcF09mi5T6bTKQ4ODlyH0ZkoipCmaed9nrdT2UfMlDrOXl/qk65V2bHgrZjHx0fXIYgwxrgryfRJnudI0/TDPlZw+u5y3xRF8WmLpCHKJjTEM0KUXYGIZ4S2j8m960DIa6pVGTtieEYl5sppFGSDEABsc5lrt6GQl9R7yfBe4wlrMbbT3CnKfibEMa9KMnaFtgTlOGejVvZCDqc1h2wtYlo5C5QdT4kDGqvLSqlEKXUG4CsoaHDe7LtcYVszLlFm0rK/kEbFHN26Jl62FkP2x36ZbwGc7Dn00tsHZWPAbkGWKFvJ7wXF9ExXORQzAF3kUMxA7CuHYgZkHzkUMzBt5VCMA9rIoRhHvCWHYhyySw7FOKZJDsV4wDY5FOMJdTksYnpGVcX/BwXUAx3MAYXdAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <rect id="資產_2" data-name="資產 2" width="102" height="72" fill="url(#pattern)"/>
+</svg>
